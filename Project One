@@ -1,0 +1,73 @@
+Tree Data Evaluation
+and Run Time
+
+
+
+            A binary search
+tree allows for a program to efficiently run when needing to search for data,
+insert new data, or remove nodes from a program. A binary search tree is able
+to efficiently do this when compared to other data structures because it
+compares half of the data to find the desired input or change the user is
+requesting of the program. A binary search tree also maintains sorted order, as
+it retrieves all of the elements in order. A con of binary search trees can be
+the complexity of their creation/modification and the run time. The run time
+can be found by using O(logN) for a binary search tree. 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+Hash
+Table Evaluation and Run Time
+
+
+
+            A hash table is a simple data
+structure that keeps track of data with a specific location where it is stored.
+Hash tables are great at quickly inserting and deleting data with direct access
+to the specific location of where that data is stored. However, a hash table
+does take a little bit longer to process due to hashing and indexing. It
+requires more memory than other data types and will not necessarily give the
+data is a specific order. It is also more difficult to search for a specific
+item. The run time can be found using O().
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+Vector Evaluation and Run Time
+
+
+
+            A vector can hold an ordered
+collection of elements. It is very similar to an array, like a hash table data
+structure uses. Handling data in a vector data structure is easier for the user
+and takes up less memory for the program. However, multiple data types cannot
+be used when using a vector. It is also a lot more complicated to change or
+delete elements within a vector data structure. Depending on the data size,
+this can cause a long run time due to the run time is in direct correlation
+with how large the vector data structure is. The run time can be found using O().
